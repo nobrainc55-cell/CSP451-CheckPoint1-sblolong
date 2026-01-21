@@ -1,0 +1,1 @@
+console.log("CSP451 CheckPOint1 project loaded successfully!");
